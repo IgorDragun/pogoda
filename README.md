@@ -1,5 +1,5 @@
 ### Pogoda.
-This application show the weather in main cities in Republic of Belarus:
+This application shows the weather in main cities in Republic of Belarus:
 - *Minsk*;
 - *Brest*;
 - *Vitebsk*;
